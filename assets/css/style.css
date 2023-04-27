@@ -58,5 +58,16 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpeg') no-repeat center center;
-    overflow: hidden;  
+    overflow: hidden;
+    position: relative;
+}
+
+/* form */
+
+#signup-form {
+    max-width: 300px;
+    padding: 16px
+    margin: 20px;
+    right: 0;
+    position: absolute;
 }
