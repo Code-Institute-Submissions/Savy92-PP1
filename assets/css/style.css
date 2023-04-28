@@ -239,6 +239,10 @@ h2 {
     letter-spacing: 4px;
 }
 
+.contact-section h2 {
+    padding-top: 5%;
+}
+
 /* footer */
 
 .social-media {
