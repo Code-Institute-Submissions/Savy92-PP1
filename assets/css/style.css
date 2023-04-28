@@ -134,21 +134,30 @@ h1, h2 {
 
 .left-side {
     padding-top: 50px;
+    padding-bottom: 50px;
     width: 33%;
     float: left;
     background-color: #B9E4FA;
+    text-align: center;
+    border: 5px solid #3b3c36;
 }
 
 .right-side {
     padding-top: 50px;
+    padding-bottom: 50px;
     width: 33%;
     float: right;
     background-color: #B9E4FA;
+    text-align: center;
+    border: 5px solid #3b3c36;
 }
 
 .center {
     width: 33%;
     margin: 0 auto;
     padding-top: 50px;
+    padding-bottom: 50px;
     background-color: #B9E4FA;
+    text-align: center;
+    border: 5px solid #3b3c36;
 }
