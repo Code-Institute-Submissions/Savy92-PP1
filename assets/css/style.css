@@ -238,6 +238,7 @@ h2 {
     padding: 30px;
     background-color: #B9E4FA;
     border: 3px solid #3b3c36;
+    overflow-wrap: break-word;
 }
 
 .about-section {
@@ -345,7 +346,7 @@ h2 {
     }
 
     .reviews_section {
-        width: 90;
+        width: 90px;
         height: 1200px;
         margin: 0 auto;
     }
