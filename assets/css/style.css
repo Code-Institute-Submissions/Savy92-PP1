@@ -222,6 +222,12 @@ h2 {
     letter-spacing: 4px;
 }
 
+.icon_style {
+    display: block;
+    font-size: 50px;
+    padding: 60px;
+}
+
 /* about */
 
 .about_us {
