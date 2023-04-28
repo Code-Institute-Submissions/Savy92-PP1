@@ -14,7 +14,7 @@ body {
 }
 
 .wrapper {
-    width: 80%;
+    width: 75%;
     margin: auto;
     background: linear-gradient(to top, #ffffff, #f4f6ff, #e5efff, #d1e9fe, #b9e4fa);
 }
@@ -257,7 +257,7 @@ h2 {
 .about_us {
     padding: 30px;
     background-color: #B9E4FA;
-    border: 3px solid #3b3c36;
+    border: 1px solid #3b3c36;
     overflow-wrap: break-word;
 }
 
