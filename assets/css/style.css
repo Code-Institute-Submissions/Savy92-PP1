@@ -90,23 +90,39 @@ h1, h2 {
 /* form */
 
 .signup-form, .signup-form h2 {
-    margin: auto;
     color: #3b3c36;
+    text-align: center;
+}
+
+
+.signup-form {
+    margin: auto;
     background-color: rgba(185, 228, 250, 1);
     max-width: 400px;
+    height: 300px;
     left: 10%;
     padding: 30px;
-    text-align: center;
     display: flex;
 }
 
 .signup-form, label {
     text-align: left;
+    font-size: 1em;
+    color: #3b3c36;
 }
 
-.signup-form, input {
+.text-input {
     width: 100%;
     margin-top: 5px;
     margin-bottom: 10px;
+}
+
+.submit_button {
+    background-color: #3b3c36;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
 }
 
