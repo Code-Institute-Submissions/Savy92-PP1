@@ -157,7 +157,7 @@ h2 {
     width: 33%;
     background-color: #B9E4FA;
     text-align: center;
-    border: 3px solid #3b3c36;
+    border: 1px solid #3b3c36;
     text-transform: uppercase;
     font-size: large;
     font-weight: bold;
@@ -170,7 +170,7 @@ h2 {
     width: 33%;
     background-color: #B9E4FA;
     text-align: center;
-    border: 3px solid #3b3c36;
+    border: 1px solid #3b3c36;
     text-transform: uppercase;
     font-size: large;
     font-weight: bold;
@@ -183,15 +183,15 @@ h2 {
     padding-bottom: 50px;
     background-color: #B9E4FA;
     text-align: center;
-    border: 3px solid #3b3c36;
+    border: 1px solid #3b3c36;
     text-transform: uppercase;
     font-size: large;
     font-weight: bold;
     letter-spacing: 4px;
 }
 
-.fa {
-    display: block;
+.fa-solid {
+    display: block !important;
     font-size: 50px;
     padding: 60px;
 }
@@ -357,6 +357,21 @@ h2 {
 
     .center-review h3 {
         font-size: large;
+    }
+
+    .left-side {
+        overflow: hidden;
+    overflow-wrap: break-word;
+    }
+
+    .right-side {
+        overflow: hidden;
+    overflow-wrap: break-word;
+    }
+
+    .center {
+        overflow: hidden;
+    overflow-wrap: break-word;
     }
 
 }
