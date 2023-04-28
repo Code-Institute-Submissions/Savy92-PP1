@@ -254,6 +254,10 @@ h2 {
     padding-top: 5%;
 }
 
+.contact_details {
+    list-style: none;
+}
+
 /* footer */
 
 .social-media {
