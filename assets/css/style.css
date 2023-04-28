@@ -145,6 +145,7 @@ h2 {
     margin-top: 30px;
     width: 95%;
     margin: 30px auto;
+    border-radius: 4px;
 }
 
 /* facilities */
@@ -166,6 +167,11 @@ h2 {
     font-size: large;
     font-weight: bold;
     letter-spacing: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 
 .right-side {
@@ -179,6 +185,11 @@ h2 {
     font-size: large;
     font-weight: bold;
     letter-spacing: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 
 .center {
@@ -192,6 +203,11 @@ h2 {
     font-size: large;
     font-weight: bold;
     letter-spacing: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
 }
 
 .fa-solid {
