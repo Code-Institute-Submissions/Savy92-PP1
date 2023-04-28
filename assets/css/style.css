@@ -170,6 +170,29 @@ h1, h2 {
     font-weight: bold;
 }
 
+/* reviews */
+
+.left-review {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+.right-review {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: green;
+}
+
+.center-review {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: silver;
+}
+
 /* footer */
 
 .social-media {
