@@ -221,11 +221,15 @@ h2 {
 .center-review {
     padding-top: 200px;
     width: 33%;
-    height: 200px;
+    height: 300px;
     margin: 0 auto;
     text-align: center;
     font-size: large;
     letter-spacing: 4px;
+}
+
+.review-wrapper {
+    padding: 30px;
 }
 
 /* about */
