@@ -21,6 +21,11 @@ body {
 
 /* headings & logos */
 
+header {
+    height: 130px;
+}
+
+
 h1, h2 {
     font-family: 'Poltawski Nowy', sans-serif;
     text-transform: uppercase;
