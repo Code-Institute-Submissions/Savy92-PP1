@@ -10,7 +10,13 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #3b3c36;
-    background-image: linear-gradient(to top, #ffffff, #f4f6ff, #e5efff, #d1e9fe, #b9e4fa);
+    background: #fff;
+}
+
+.wrapper {
+    width: 80%;
+    margin: auto;
+    background: linear-gradient(to top, #ffffff, #f4f6ff, #e5efff, #d1e9fe, #b9e4fa);
 }
 
 /* headings & logos */
@@ -323,6 +329,18 @@ h2 {
         width: 90;
         height: 1200px;
         margin: 0 auto;
+    }
+
+    .left-review h3 {
+        font-size: large;
+    }
+
+    .right-review h3 {
+        font-size: large;
+    }
+
+    .center-review h3 {
+        font-size: large;
     }
 
 }
