@@ -22,6 +22,11 @@ h1, h2 {
     color: #3b3c36;
 }
 
+h2 {
+    text-align: center;
+    padding-top: 10px;
+}
+
 .logo {
     float: left;
     font-size: 250%;
