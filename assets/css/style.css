@@ -313,4 +313,16 @@ h2 {
         margin-bottom: 30px;
         line-height: 25px;
     }
+
+    .cover-text {
+        left: 30;
+        margin-top: 50px;
+    }
+
+    .reviews_section {
+        width: 90;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
 }
