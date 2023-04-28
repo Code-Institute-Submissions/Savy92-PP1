@@ -82,7 +82,7 @@ h2 {
     height: 200px;
     
     padding-top: 40px;
-    padding-left: 10px;
+    padding-left: 20px;
 
     background-color: rgba(255,255,255, 0.5);
 
@@ -149,6 +149,7 @@ h2 {
     text-transform: uppercase;
     font-size: large;
     font-weight: bold;
+    letter-spacing: 4px;
 }
 
 .right-side {
@@ -161,6 +162,7 @@ h2 {
     text-transform: uppercase;
     font-size: large;
     font-weight: bold;
+    letter-spacing: 4px;
 }
 
 .center {
@@ -173,6 +175,7 @@ h2 {
     text-transform: uppercase;
     font-size: large;
     font-weight: bold;
+    letter-spacing: 4px;
 }
 
 /* reviews */
@@ -184,6 +187,7 @@ h2 {
     float: left;
     text-align: center;
     font-size: large;
+    letter-spacing: 4px;
 }
 
 .right-review {
@@ -193,6 +197,7 @@ h2 {
     float: right;
     text-align: center;
     font-size: large;
+    letter-spacing: 4px;
 }
 
 .center-review {
@@ -202,10 +207,7 @@ h2 {
     margin: 0 auto;
     text-align: center;
     font-size: large;
-}
-
-.center-review h3 {
-    font-weight: bold;
+    letter-spacing: 4px;
 }
 
 /* about */
@@ -221,8 +223,20 @@ h2 {
     text-align: center;
 }
 
+.about-section p {
+    font-weight: bold;
+    font-size: large;
+    letter-spacing: 4px;
+}
+
 .contact-section {
     text-align: center;
+}
+
+.contact-section li {
+    font-weight: bold;
+    font-size: large;
+    letter-spacing: 4px;
 }
 
 /* footer */
