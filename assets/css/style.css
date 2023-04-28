@@ -25,6 +25,7 @@ h1, h2 {
 .logo {
     float: left;
     font-size: 250%;
+    margin-left: 30px;
 }
 
 .menu {
@@ -49,7 +50,7 @@ h1, h2 {
 }
 
 .menu a:hover {
-    border-bottom: 1px solid #3b3c36;
+    border-bottom: 2px solid #3b3c36;
 }
 
 /* hero image and cover text*/
@@ -87,3 +88,25 @@ h1, h2 {
 }
 
 /* form */
+
+.signup-form, .signup-form h2 {
+    margin: auto;
+    color: #3b3c36;
+    background-color: rgba(185, 228, 250, 1);
+    max-width: 400px;
+    left: 10%;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+}
+
+.signup-form, label {
+    text-align: left;
+}
+
+.signup-form, input {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
