@@ -235,8 +235,7 @@ h2 {
 /* about */
 
 .about_us {
-    height: 300px;
-    width: 100%;
+    padding: 30px;
     background-color: #B9E4FA;
     border: 3px solid #3b3c36;
 }
