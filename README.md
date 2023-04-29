@@ -1,5 +1,5 @@
 # **Introduction**
-Welcome to Gym Heroes! This website is the main marketing tool which provides users with information about the services, facilities and how to join the community. It has been designed to be responsive and accessible on all device platforms, which makes it user friendly.
+Welcome to Gym Bros! This website is the main marketing tool which provides users with information about the services, facilities and how to join the community. It has been designed to be responsive and accessible on all device platforms, which makes it user friendly.
 
 <hr>
 
@@ -22,17 +22,55 @@ The two main colours used are white (background) & black for the text. Simply be
 The Abel font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Abel is picked for it's readbility and cleaness when added to the website.
 ### Imagery
 The background hero image was designed to capture the users attention whilst also showing the purpose of the website. The image is simple but strong, providing the user a message with what our gym can offer them.
-### Wireframes
-Figma was used to sketch my first template.
 
 <hr>
 
 ## Features
-Responsive on all device sizes
 
-<hr>
+### Navigation Bar
 
-## Interactive elements
+Featured on the top right hand-side of the page, the full responsive navigation bar includes internal links to the sign up section, facilities section, reviews section and about us section which allows the users to to easily navigate to the section they want.
+
+I have also added a hover style to give the user clarity when selecting from the navigation bar.
+
+![navigation screenshot](docs/images/navigation.png)
+
+### The Landing Image
+
+The landing includes a hero image with text overlay providing a powerful and motivational statement which captures the user attention.
+
+I have kept the section simple and avoided to much text or multiple images as i just want to introduce the user to Gym Bros.
+
+
+### Sign Up Form
+
+This section was position straight under the hero image for ease of use for the user. It will allow the user to enquire about joining the Gym Bros community. The user will be able specify if they would like to sign up for the off peak or anytime membership. The user will be asked to submit their full name and email address.
+
+![sign-up form screenshot](docs/images/sign-up.png)
+
+### Facilities
+
+This section will allow the user to see exactly what services and facilities the gym has to offer. Icons were used to draw the user attention to the selling points of the membership. Also helps break up the sections as too much text will leade to a poor user experience.
+
+![facilities section screenshot](docs/images/facilities.png)
+
+### Reviews
+
+A small section of reviews which provides users reassurance regarding what they can expect from joining Gym Bros. The purpose of this section will help gain the users trust for the owners point of view.
+
+![reviews section screenshot](docs/images/reviews.png)
+
+### About
+
+The about section provides the user with more information on what the business offers. The mission statement of the Gym and also the contact details for the users.
+
+![about section screenshot](docs/images/about.png)
+
+### Footer
+
+The footer provides the user with social media links, for easy access to the Gym Bros other pages which open on in a different tab. 
+
+![footer scetion screenshot](docs/images/footer.png)
 
 <hr>
 
@@ -40,31 +78,25 @@ Responsive on all device sizes
 ### Languages Used
 - HTML5
 - CSS3
-- Figma
-- Hover.css:
-- Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 - Google Fonts:
-- Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+- Google fonts were used to import the 'Roboto' font into the style.css file which is used on all sections throughout the project. 'Poltawski Nowy' was also imported to style all headings throught the page.
 - Font Awesome:
-- Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+- Font Awesome was used for the facilities section & the footer section to add icons for aesthetic and UX purposes.
 - Git
 - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 - GitHub:
 - GitHub is used to store the projects code after being pushed from Git.
-- Figma:
-- Figma was used to create the wireframes during the design process.
 
 <hr>
 
 ## Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-W3C Markup Validator - Results
-W3C CSS Validator - Results
-## Testing User Stories from User Experience (UX) Section
-### First Time Visitor Goals
+Accessibility:
 
-Yet to be determined.
+I confirm that the colours and fonts chosen are easy to read and accessible by running it through lighthouse on devtools.
+
+![light-house screenshot](docs/images/lighthouse-results.png)
 
 ## Further Testing
 - Tests were done to make sure the website worked smoothly in different browsers (Google Chrome, Internet Explorer, Microsoft Edge and Safari.)
@@ -74,7 +106,13 @@ Yet to be determined.
 <hr>
 
 ## Known Bugs
-Yet to be determind.
+- After testing my HTML code in W3C Markup Validator, it confirmed that i had two bugs. One extra ending div without an opening and a span was used in a incorrect way.
+
+- i deleted the extra div and chagned the span into a div element.
+
+## Known Issues
+- For smaller screen clarity, i would have added a hamburger icon to shorten the webpage and clean up the design.
+- Under the reviews section, i would add card layouts for the text again for clairty and a better user experience.
 
 <hr>
 
@@ -101,7 +139,9 @@ The development environment used for this project was CodeAnywhere. To track the
 <hr>
 
 ## Credits
-The full-screen hero image code came from pexels.com
+- The full-screen hero image code came from pexels.com
+- The background gradient was created using mycolour.space
+- stackoverflow / w3schools / css-tricks - for developing my knowledge
 
 ## Content
 All content was written by the developer and inspiration was taken from the previous 'Love Running' project we recently completed.
