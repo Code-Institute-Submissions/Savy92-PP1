@@ -142,6 +142,7 @@ The development environment used for this project was CodeAnywhere. To track the
 - The full-screen hero image code came from pexels.com
 - The background gradient was created using mycolour.space
 - stackoverflow / w3schools / css-tricks - for developing my knowledge
+- The code to make the social media links were taken from the Love Running project.
 
 ## Content
 All content was written by the developer and inspiration was taken from the previous 'Love Running' project we recently completed.
