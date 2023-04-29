@@ -21,7 +21,7 @@ Welcome to Gym Bros! This website is the main marketing tool which provides user
 ### Colour Scheme
 The two main colours used are white (background) & black for the text. Simply because black text on white background provides the highest readability. I have also introduced a blue colour in certains aspects to provide calmness.
 ### Typography
-The Abel font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Abel is picked for it's readbility and cleaness when added to the website.
+The Roboto font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Roboto is picked for it's readbility and cleaness when added to the website. For the headings i have pick Poltawski Nowy as it is a bold and strong font which fits the purpose of this website.
 ### Imagery
 The background hero image was designed to capture the users attention whilst also showing the purpose of the website. The image is simple but strong, providing the user a message with what our gym can offer them.
 
@@ -114,7 +114,7 @@ I confirm that the colours and fonts chosen are easy to read and accessible by r
 
 ## Known Issues
 - For smaller screen clarity, i would have added a hamburger icon to shorten the webpage and clean up the design.
-- Under the reviews section, i would add card layouts for the text again for clairty and a better user experience.
+- Under the reviews section, i would add card layouts for the text which would provide the user with a image of the member and the name, again for clairty and a better user experience as they can relate to the member.
 
 <hr>
 
@@ -144,3 +144,4 @@ All content was written by the developer and inspiration was taken from the prev
 
 ## Acknowledgements
 My Mentor for continuous helpful feedback.
+The slack community for all there advice and guidance.
