@@ -1,6 +1,8 @@
 # **Introduction**
 Welcome to Gym Bros! This website is the main marketing tool which provides users with information about the services, facilities and how to join the community. It has been designed to be responsive and accessible on all device platforms, which makes it user friendly.
 
+![am-i-responsive screenshot](docs/images/am-i-responsive.png)
+
 <hr>
 
 ## **User Experience (UX)**
